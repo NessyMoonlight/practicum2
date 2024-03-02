@@ -1,3 +1,3 @@
-runM = float(input("Сколько ты пробежал в игре в метрах: "))
-miles = runM * 0.000621
-print(f"Ты пробежал {int(miles)} миль")
+run = float(input("Пробег в игре в метрах: "))
+miles = run * 0.000621
+print(f"Вы пробежали {int(miles)} миль")
